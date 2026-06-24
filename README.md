@@ -166,7 +166,7 @@ JWT_SECRET=your_secret_key
 * Email Notifications
 * Dark Mode
 * Activity Logs
-live:https://code-alpha-project-management-plateform-1btwt5o9d.vercel.app/
+*live:https://code-alpha-project-management-plateform-1btwt5o9d.vercel.app/
 ---
 
 ## 👨‍💻 Author
@@ -180,6 +180,8 @@ PSIT Kanpur
 GitHub: https://github.com/Pragati0508
 
 LinkedIn: https://www.linkedin.com/in/pragati-patel-2a3b54318/
+
+Live:https://code-alpha-project-management-plateform-1btwt5o9d.vercel.app/
 
 ---
 
