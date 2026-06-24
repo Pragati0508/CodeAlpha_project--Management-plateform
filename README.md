@@ -166,7 +166,7 @@ JWT_SECRET=your_secret_key
 * Email Notifications
 * Dark Mode
 * Activity Logs
-
+live:https://code-alpha-project-management-plateform-1btwt5o9d.vercel.app/
 ---
 
 ## 👨‍💻 Author
